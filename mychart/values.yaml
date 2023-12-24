@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: myacrrepo531.azurecr.io/myacrrepo531
+  repository: 19980614/my-docker-repo
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
